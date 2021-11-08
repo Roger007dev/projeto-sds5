@@ -34,3 +34,10 @@ html, body {
 .margem{
     margin-bottom:200px;
 }
+
+.centro{
+    text-align: center;
+    margin: 0px auto;
+    align-items: center;
+    
+}
